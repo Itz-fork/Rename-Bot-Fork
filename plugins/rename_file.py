@@ -181,7 +181,7 @@ async def rename_doc(bot, message):
     else:
         await bot.send_message(
             chat_id=message.chat.id,
-            text="**You're Banned** to use me!🙄️ Contact **@Nexa_bots** for more info 😶️.",
+            text="<b>You're Banned</b> to use me!🙄️ Contact **@Nexa_bots** for more info 😶️.",
             reply_to_message_id=message.message_id
         )
 
