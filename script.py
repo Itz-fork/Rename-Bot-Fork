@@ -18,7 +18,7 @@ Made With ❤️ by <b>@NexaBotsUpdates</b>"""
     UPGRADE_TEXT = "Thanks for Upgrading your current plan! 😍️. You can Contact My Dev in **@Nexa_bots** for Payments."
     DOWNLOAD_START = "**Download Started!** 📥️. Gimme some time to finish this ⏳️⌛️"
     UPLOAD_START = "**Upload Started** 📤️. Gimme some time to finish this ⏳️⌛️"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Your Files Is Successfully Renamed**! Made With ❤️ by **@NexaBotsUpdates**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Your Files Is Successfully Renamed**! Made With ❤️ by **@NexaBotsUpdates** "
     SAVED_THUMB = "Custom Thumbnail Is Successfully Saved 🤗️✅ **This Thumbnail Is Permanent** 😎️"
     DEL_THUMB = "Custom Thumbnail Cleared Succesfully! 🤗️✅"
     NO_THUMB = "You Didn't Set a Custom For Now!😶️"
@@ -28,14 +28,14 @@ Made With ❤️ by <b>@NexaBotsUpdates</b>"""
     
 🔘️ Send me any Telegram File.
 🔘️ Choose appropriate option.
-🔘️ Enjoy! Made With ❤️ by **@NexaBotsUpdates**
+🔘️ Enjoy!
 
-**Availabe Commands** ⚙️👁️‍🗨️️,
+ <b>Available Commands</b> ⚙️👁️‍🗨️️,
 
-  <code>/start</code> - To Start Me 😏️
-  <code>/setthumb</code> - Set Custom Thumnail 🙂️(Upload or Forward Me a Photo and Reply to it with this command)
-  <code>/showthumb</code> - Shows Your Current Custom Thumbnail 😌️
-  <code>/delthumb</code> - To Delete Current Custom Thumbnail 🙃️
-  <code>/help</code> - Shows This Help Messege 😂️
-  <code>/upgrade</code> - To Upgrade Your Plan 💸️"""
+ <code>/start</code> - To Start Me 😏️
+ <code>/setthumb</code> - Set Custom Thumnail 🙂️(Upload or Forward Me a Photo and Reply to it with this command)
+ <code>/showthumb</code> - Shows Your Current Custom Thumbnail 😌️
+ <code>/delthumb</code> - To Delete Current Custom Thumbnail 🙃️
+ <code>/help</code> - Shows This Help Messege 😂️
+ <code>/upgrade</code> - To Upgrade Your Plan 💸️"""
 
