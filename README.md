@@ -1,9 +1,9 @@
 ## Source Code
-I can't find it xD! I think it's PRGOFFICIAL
+[Here](https://github.com/prgofficial/RenameBot-PermTB)
 
 ## Rename Bot 
 
-An Open Source Telegram Rename Bot
+An Open Source Cloned Telegram Rename Bot. Supports Permanent Thumbnail!
 
 ---
 Rename any Telegram Files with Permanent Thumbnail Support
@@ -19,7 +19,7 @@ Rename any Telegram Files with Permanent Thumbnail Support
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/prgofficial/RenameBot-PermTB
+git clone https://github.com/Itz-fork/Renamers-Bot-NBU
 cd RenameBot-PermTB
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
@@ -29,7 +29,9 @@ python3 -m tobrot
 ```
 
 
-#### For Queries and support, contact [prgofficial](https://telegram.dog/prgofficial)
+#### For Queries and support,
+ - Contact Owner [prgofficial](https://telegram.dog/prgofficial)
+ - Or [Contact Me](https://t.me/Nexa_bots)
 
 ## Credits, and Thanks to Beloved Developers ;
 
