@@ -1,4 +1,3 @@
-import logging
 import os
 
 if bool(os.environ.get("WEBHOOK", False)):
@@ -7,12 +6,6 @@ else:
     from config import Config
 
 from pyrogram import Client
-
-# Logging things
-logging.basicConfig(level=logging.DEBUG,
-                    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-logger = logging.getLogger(__name__)
-
 
 if __name__ == "__main__" :
     if not os.path.isdir(Config.DOWNLOAD_LOCATION):
